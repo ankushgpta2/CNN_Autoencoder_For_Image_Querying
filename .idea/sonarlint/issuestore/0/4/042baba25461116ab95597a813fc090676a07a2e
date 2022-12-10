@@ -1,0 +1,3 @@
+
+{python:S1542"^Rename function "calculate_KNN_and_cosine" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ò¦öÿÿÿÿÿ
+lpython:S3776&"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¦¯°€
